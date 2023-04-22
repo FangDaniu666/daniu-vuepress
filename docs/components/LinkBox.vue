@@ -59,7 +59,7 @@ export default {
 
 <style scoped>
 .link-box {
-    background-color: #fff;
+    background-color: var(--dark-bg);
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
     overflow: hidden;
 }
@@ -70,7 +70,7 @@ export default {
     align-items: center;
     padding: 0 20px;
     height: 50px;
-    background-color: #f5f5f5;
+    background-color: var(--dark-bg-2);
 }
 
 .link-title-left {
@@ -81,7 +81,7 @@ export default {
 .link-title-left h2 {
     font-size: 18px;
     font-weight: bold;
-    color: #333;
+    color: var(--text-color);
     margin: 0;
     padding: 0;
 }
@@ -92,13 +92,13 @@ export default {
     justify-content: center;
     font-size: 14px;
     font-weight: bold;
-    color: #666;
+    color: var(--text-color);
     text-decoration: none;
     transition: color 0.3s ease;
 }
 
 .link-more a:hover {
-    color: #333;
+    color: var(--accent-color);
 }
 
 .link-more a span {
@@ -107,7 +107,7 @@ export default {
 
 .link-more a i {
     font-size: 14px;
-    color: #666;
+    color: var(--text-color);
     margin-left: 5px;
 }
 
@@ -131,7 +131,8 @@ export default {
 .link-in {
     display: flex;
     align-items: center;
-    background-color: #f5f5f5;
+    /*background-color: #f5f5f5;*/
+    background-color: var(--border-color);
     padding: 10px;
     height: 100%;
 }
@@ -166,7 +167,7 @@ export default {
 
 .link-right h2 {
     font-size: 16px;
-    color: #333;
+    color: var(--text-color);
     margin: 0;
     padding: 0;
     white-space: nowrap;
@@ -176,7 +177,7 @@ export default {
 
 .link-desc {
     font-size: 14px;
-    color: #666;
+    color: var(--text-color);
     margin: 0;
     padding: 0;
     line-height: 1.5;

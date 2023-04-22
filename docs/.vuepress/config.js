@@ -14,7 +14,7 @@ module.exports = {
         ['link', { rel: 'icon', href: '/img/favicon.ico' }],
 		['meta', { name: 'keywords', content: '房大牛的小站,vuepress,自建博客' }],
 		['meta', { name: 'description', content: '房大牛的小站,记录学习,生活,分享实用工具' }],
-        ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no' }],
+        ['meta', { name: 'viewport', content: 'width=device-width,initial-scale=1,user-scalable=no'}],
         ["meta", {name: "robots", content: "all"}],
         ["meta", {name: "author", content: "房大牛"}],
 		["link", { rel: "stylesheet", href: "/css/style.css" }],//显示nav小logo
