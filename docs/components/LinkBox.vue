@@ -223,4 +223,37 @@ export default {
 .b2-arrow-right-s-line:before {
     content: "\e6b6";
 }
+
+@media only screen and (max-width: 768px) {
+    .link-title {
+        height: auto;
+        padding: 10px;
+    }
+
+    .link-title-left h2 {
+        font-size: 14px;
+    }
+
+    .link-more a {
+        font-size: 12px;
+    }
+
+    .link-img {
+        width: 40px;
+        height: 40px;
+        margin-right: 5px;
+    }
+
+    .link-list li {
+        width: 100%;
+    }
+
+    .link-right h2 {
+        font-size: 14px;
+    }
+
+    .link-desc {
+        font-size: 12px;
+    }
+}
 </style>
