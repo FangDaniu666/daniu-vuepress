@@ -3,6 +3,9 @@ module.exports = [
         text: '本站指南', link: '/guide/', icon: 'reco-eye'
     },
     {
+        text: '实用工具', link: '/tools/', icon: 'reco-category'
+    },
+    {
         text: '技术分享', link: '/技术文章/', icon: 'reco-api',
         items: [
             {
