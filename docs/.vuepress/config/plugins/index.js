@@ -13,7 +13,7 @@ module.exports = {
     },
     "vuepress-plugin-baidu-autopush": {},
     'sitemap': {
-        hostname: 'https://www.xxx.com'
+        hostname: 'https://fangdaniu666.github.io'
     },
     'copyright': {
         noCopy: true, // 选中的文字将无法被复制

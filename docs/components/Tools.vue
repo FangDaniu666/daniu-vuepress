@@ -28,6 +28,12 @@ export default {
                     desc: "一款优秀的多线程下载工具",
                 },
                 {
+                    title: "Everything",
+                    link: "https://www.voidtools.com/zh-cn/",
+                    imgSrc: "https://bizaladdin-image.baidu.com/0/pic/1895271161_216797840_-466681421.jpg",
+                    desc: "基于名称快速定位文件和文件夹。",
+                },
+                {
                     title: "uTools",
                     link: "https://www.u.tools/",
                     imgSrc: "https://img2.baidu.com/it/u=415744863,4049842361&fm=253&fmt=auto&app=138&f=JPEG?w=256&h=256",
@@ -38,6 +44,24 @@ export default {
                     link: "https://www.iconfont.cn/",
                     imgSrc: "https://file.lookroot.cn/2023/04/20230421073454image970.png",
                     desc: "强大且图标内容很丰富的矢量图标库",
+                },
+                {
+                    title: "RadminLAN",
+                    link: "https://www.radmin.com/cn/",
+                    imgSrc: "https://d4.alternativeto.net/1_a-cGVomtRdoB_cSFqUGvBQ7MjTa47abS6Uc49-7NI/rs:fill:280:280:0/g:ce:0:0/YWJzOi8vZGlzdC9pY29ucy9yYWRtaW4tdnBuXzE2MDUwNi5wbmc.png",
+                    desc: "一种局域网管理软件，可以实现远程控制、文件共享、消息传递等功能。",
+                },
+                {
+                    title: "爱奇艺万能联播",
+                    link: "http://static-s.iqiyi.com/wnbf/get.html",
+                    imgSrc: "https://t8.baidu.com/it/u=310479431,3089884099&fm=74&app=80&size=f256,256&n=0&f=PNG?sec=1682355600&t=f8c749dc2b54dc8d86bad4bd593c5c7a",
+                    desc: "百度网盘高速下载",
+                },
+                {
+                    title: "Bandizip",
+                    link: "http://www.bandisoft.com/",
+                    imgSrc: "https://img-download.pchpic.net/download/1k1/ec/2s/oluwi2-1soj.png",
+                    desc: "一个强大的多功能压缩文件管理工具",
                 },
             ],
             ailinks: [
